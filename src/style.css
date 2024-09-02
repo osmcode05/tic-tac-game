@@ -5,8 +5,7 @@
   box-sizing: border-box;
 }
 :root {
-  /* --pink-color: rgb(255, 23, 100); */
-  --pink-color: purple;
+  --pink-color: rgb(255, 23, 100);
   --yellow-color: rgb(224, 188, 9);
   --light-color: rgb(246, 240, 242);
 }
